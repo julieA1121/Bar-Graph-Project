@@ -1,0 +1,32 @@
+Julia F Afon
+
+3/30/2011
+
+
+CSC 2310 PRINCIPLES OF PROGRAMMING 1 (JAVA) 
+
+
+Instructor Umar Arshad
+
+
+About this project: 
+
+This is a java program that draws a bar graph based on the input from the command line.
+
+You put the input in the command line to run the program. 
+
+After creating the classes of both java file attached then you can run the program as shown below.
+
+
+java BarGraph 300 200 50 100 80 75 60
+100  80  75  60
+java BarGraph 300 200 50 100 80 75 60
+100  80  75  60
+
+java BarGraph 600 300 70 40 30 60 45 96 74 100 240 60
+40  30  60  45  96  74  100  240  60
+java BarGraph 200 300 70 40 30 60 45 96 74 100 240 60
+40  30  60  45  96  74  100  240  60
+
+
+The graph that displays with these values are as attached.
